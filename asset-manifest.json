@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/lienmach-portfolio/static/css/main.fb0367cf.css",
-    "main.js": "/lienmach-portfolio/static/js/main.5c14a989.js",
+    "main.css": "/lienmach-portfolio/static/css/main.d717fe82.css",
+    "main.js": "/lienmach-portfolio/static/js/main.ba3a029c.js",
     "index.html": "/lienmach-portfolio/index.html",
-    "main.fb0367cf.css.map": "/lienmach-portfolio/static/css/main.fb0367cf.css.map",
-    "main.5c14a989.js.map": "/lienmach-portfolio/static/js/main.5c14a989.js.map"
+    "main.d717fe82.css.map": "/lienmach-portfolio/static/css/main.d717fe82.css.map",
+    "main.ba3a029c.js.map": "/lienmach-portfolio/static/js/main.ba3a029c.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb0367cf.css",
-    "static/js/main.5c14a989.js"
+    "static/css/main.d717fe82.css",
+    "static/js/main.ba3a029c.js"
   ]
 }
